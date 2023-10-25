@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "385764615341",
+    "firebase_url": "https://med01k-default-rtdb.firebaseio.com",
+    "project_id": "med01k",
+    "storage_bucket": "med01k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385764615341:android:3e0629d5c49832dbc85224",
+        "android_client_info": {
+          "package_name": "com.example.medking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdfSH2rQ38mep1eB_SaI_kBA6ptRpnqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
